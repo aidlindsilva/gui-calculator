@@ -20,3 +20,5 @@ Setup & Execution
 
 No external installations required. Just open your terminal and run:
 
+Web version:
+https://gui-calculator-kabafdmru4tjnmjyb6vuo5.streamlit.app/
